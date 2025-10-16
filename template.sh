@@ -13,7 +13,7 @@ touch setup.py
 touch app.py
 touch research/trials.ipynb
 touch requirements.txt
-
+touch README.md
 echo "Directory and files created sucessfully"
 
 # Project structure:
